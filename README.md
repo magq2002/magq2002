@@ -2,8 +2,7 @@
 
 Hola soy Miguel Galvez 😉, desarrollador de software 👨🏻‍💻 de Colombia.
 
-<a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Desarrollador+full+stack;Angular-Spring](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Desarrollador+full+stack;Angular-Spring)" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Desarrollador+full+stack;Angular%2C+Spring)](https://git.io/typing-svg)
 ### Como contactame:
 
 
@@ -14,14 +13,30 @@ Hola soy Miguel Galvez 😉, desarrollador de software 👨🏻‍💻 de Colomb
 - 🔭 Yo actualmente trabajo en <strong>sistemas dedicados al control</strong> y <strong>reportes de información</strong>
 - 🌱 Yo actualmente estoy aprendiendo <strong>spring</strong> y <strong>servicios en nubes</strong>
 - 🤔 Yo estoy interesado en aprender y trabajar con <strong>Angular, SpringBoot</strong>
-- 🔍 Yo estoy buscando oportunidades de trabajo con las <strong>últimas tecnologias</strong> industry
-- 👀 Mira mi [Personal Portfolio](https://www.notion.so/Notas-r-pidas-ECCE-ef27243fa80a4f13855f0e393b73f4b8?pvs=21) para más información.
+- 🔍 Yo estoy buscando oportunidades de trabajo con las <strong>últimas tecnologias</strong>
+- 👀 Mira mi [Personal Portfolio](https://magq2002.000webhostapp.com/) para más información.
 
-
-### Stats Overview : :cyclone:
+### Tecnologias:
+<p align="center"> 
+  <a href="https://www.w3.org/java/" target="_blank"> 
+ <a href="https://emoji.gg/emoji/java"><img src="https://cdn3.emoji.gg/emojis/java.png" width="64px" height="64px" alt="java"></a>
+ </a>
+  <a href="https://www.w3schools.com/typescript/" target="_blank"> 
+  <a href="https://emoji.gg/emoji/8584-typescript"><img src="https://cdn3.emoji.gg/emojis/8584-typescript.png" width="64px" height="64px" alt="TypeScript"></a>
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/> 
+  </a> 
+  <a href="https://emoji.gg/emoji/6573_angular"><img src="https://cdn3.emoji.gg/emojis/6573_angular.png" width="64px" height="64px" alt="angular"></a>
+  <a href="https://emoji.gg/emoji/5648-cpp"><img src="https://cdn3.emoji.gg/emojis/5648-cpp.png" width="64px" height="64px" alt="CPP"></a>
+  
+### Estadisticas cuenta personal y cuenta de la empresa : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=magq2002&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight"/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=magq2002&theme=dracula&no-bg=true&row=1"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelGQ1&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=magq2002&theme=dracula&no-bg=true&row=1"/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=MiguelGQ1&theme=dracula&no-bg=true&row=1"/>
 
 ### GitHub Highlights: :blossom:
@@ -38,12 +53,3 @@ Hola soy Miguel Galvez 😉, desarrollador de software 👨🏻‍💻 de Colomb
 <a href="">
 <img align="center" src="[http://github-readme-streak-stats.herokuapp.com?user=MiguelGQ1&theme=material-palenight](http://github-readme-streak-stats.herokuapp.com/?user=magq2002&theme=material-palenight)"/>
 </a>
-
-### Github Actividad: 🔥
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=magq2002&theme=dracula&color=B994E6&bg_color=2B2D3D" />
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=MiguelGQ1&theme=dracula&color=B994E6&bg_color=2B2D3D" />
-
-<h1>
-Yo soy fanatico a angular y java
-</h1>
