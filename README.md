@@ -6,8 +6,7 @@ Hola soy Miguel Galvez 😉, desarrollador de software 👨🏻‍💻 de Colomb
 
 ### Como contactame:
 
-<a href="mailto: [billpwchan@hotmail.com](mailto:billpwchan@hotmail.com)">
-<img src="https://img.shields.io/badge/-billpwchan%40hotmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> 
+
                                                                                                                                               
 ### Quien soy?:
 
