@@ -1,6 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Encantado De Conocerte.</h1>
 
 Hola soy Miguel Galvez 😉, desarrollador de software 👨🏻‍💻 de Colombia.
+Bienvenido a mi github de desarrollo libre y aprendizaje.
+Por politicas de la empresa poseo otro github de trabajo que no puede ser presentado.
+linkedln : www.linkedin.com/in/migaldev
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Desarrollador+Full+Stack;Angular%2C+laravel)](https://git.io/typing-svg)
 <!--### Como contactame:-->                                                                                                                                              
@@ -9,9 +12,9 @@ Hola soy Miguel Galvez 😉, desarrollador de software 👨🏻‍💻 de Colomb
 - 💼 Yo soy un <strong>desarrollador full stack</strong>.
 - 🔭 Yo actualmente trabajo en <strong>sistemas dedicados al control</strong> y <strong>reportes de información</strong>
 - 🌱 Yo actualmente estoy aprendiendo <strong>spring</strong> y <strong>servicios en nubes</strong>
-- 🤔 Yo estoy interesado en aprender y trabajar con <strong>Angular, Laravel</strong>
+- 🤔 Yo estoy interesado en aprender y trabajar con <strong>Angular, Spring</strong>
 - 🔍 Yo estoy buscando oportunidades de trabajo con las <strong>últimas tecnologias</strong>
-- 👀 Mira mi [Personal Portfolio](https://magq2002.000webhostapp.com/) para más información.
+- 👀 Portafolio en desarrollo
 
 ### Tecnologias:
 <p align="center"> 
@@ -30,7 +33,7 @@ Hola soy Miguel Galvez 😉, desarrollador de software 👨🏻‍💻 de Colomb
   <a href="https://emoji.gg/emoji/6573_angular"><img src="https://cdn3.emoji.gg/emojis/6573_angular.png" width="64px" height="64px" alt="angular"></a>
   <a href="https://emoji.gg/emoji/5648-cpp"><img src="https://cdn3.emoji.gg/emojis/5648-cpp.png" width="64px" height="64px" alt="CPP"></a>
   
-### Estadisticas cuenta personal y cuenta de la empresa : :cyclone:
+### Estadisticas cuenta personal - tiempo libre y aprendizaje : :cyclone:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=magq2002&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight"/>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelGQ1&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight"/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=magq2002&theme=dracula&no-bg=true&row=1"/>
