@@ -42,9 +42,9 @@ Desarrollo software, pero más que eso, diseño tecnología que transforma. Comb
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=magq2002&show_icons=true&count_private=true&theme=material-palenight" alt="GitHub Stats"/>
-
+<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=magq2002&theme=material-palenight" alt="GitHub Streak"/>
-
+<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magq2002&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" alt="Top Langs"/>
 </p>
 
