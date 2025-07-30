@@ -1,55 +1,67 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Encantado De Conocerte.</h1>
+<h1 align="center">👋 ¡Hola! Soy Miguel Ángel Gálvez</h1>
+<p align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Fullstack+Developer+%7C+IA%2C+IoT+y+SaaS;Creador+de+tecnolog%C3%ADa+con+impacto+real;Arquitectura%2C+automatizaci%C3%B3n+y+escalabilidad" alt="Typing SVG" />
+</p>
 
-Hola soy Miguel Galvez 😉, desarrollador de software 👨🏻‍💻 de Colombia.
-Bienvenido a mi github de desarrollo libre y aprendizaje.
-Por politicas de la empresa poseo otro github de trabajo que no puede ser presentado.
-linkedln : www.linkedin.com/in/migaldev
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=Desarrollador+Full+Stack;Angular%2C+laravel)](https://git.io/typing-svg)
-<!--### Como contactame:-->                                                                                                                                              
-### Quien soy?:
 
-- 💼 Yo soy un <strong>desarrollador full stack</strong>.
-- 🔭 Yo actualmente trabajo en <strong>sistemas dedicados al control</strong> y <strong>reportes de información</strong>
-- 🌱 Yo actualmente estoy aprendiendo <strong>spring</strong> y <strong>servicios en nubes</strong>
-- 🤔 Yo estoy interesado en aprender y trabajar con <strong>Angular, Spring</strong>
-- 🔍 Yo estoy buscando oportunidades de trabajo con las <strong>últimas tecnologias</strong>
-- 👀 Portafolio en desarrollo
 
-### Tecnologias:
-<p align="center"> 
-  <a href="https://www.w3.org/java/" target="_blank"> 
- <a href="https://emoji.gg/emoji/java"><img src="https://cdn3.emoji.gg/emojis/java.png" width="64px" height="64px" alt="java"></a>
- </a>
-  <a href="https://www.w3schools.com/typescript/" target="_blank"> 
-  <a href="https://emoji.gg/emoji/8584-typescript"><img src="https://cdn3.emoji.gg/emojis/8584-typescript.png" width="64px" height="64px" alt="TypeScript"></a>
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="64" height="64"/> 
-  </a> 
-  <a href="https://emoji.gg/emoji/6573_angular"><img src="https://cdn3.emoji.gg/emojis/6573_angular.png" width="64px" height="64px" alt="angular"></a>
-  <a href="https://emoji.gg/emoji/5648-cpp"><img src="https://cdn3.emoji.gg/emojis/5648-cpp.png" width="64px" height="64px" alt="CPP"></a>
-  
-### Estadisticas cuenta personal - tiempo libre y aprendizaje : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=magq2002&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight"/>
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelGQ1&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight"/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=magq2002&theme=dracula&no-bg=true&row=1"/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=MiguelGQ1&theme=dracula&no-bg=true&row=1"/>-->
+<p align="center">
+  <b>Ingeniero de Sistemas y Telecomunicaciones | Fullstack Developer | Cofundador BeMyTech.io</b>  
+</p>
 
-### GitHub Highlights: :blossom:
+<p align="center">
+  <a href="https://www.linkedin.com/in/migaldev/" target="_blank">LinkedIn</a> • 
+  <a href="mailto:migalvez2002@gmail.com">Email</a> • 
+  <a href="https://github.com/magq2002" target="_blank">GitHub</a>
+</p>
 
-<a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magq2002&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-<a href="">
-<img align="center" src="[http://github-readme-streak-stats.herokuapp.com?user=magq2002&theme=material-palenight](http://github-readme-streak-stats.herokuapp.com/?user=magq2002&theme=material-palenight)"/>
-</a>
-<!--<a href="">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGQ1&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-<a href="">
-<img align="center" src="[http://github-readme-streak-stats.herokuapp.com?user=MiguelGQ1&theme=material-palenight](http://github-readme-streak-stats.herokuapp.com/?user=magq2002&theme=material-palenight)"/>
-</a>-->
+---
+
+### 🚀 Sobre mí
+
+Desarrollo software, pero más que eso, diseño tecnología que transforma. Combino IA, programación avanzada y visión estratégica para crear soluciones que generan impacto real.
+
+- ⚙️ Cofundador de BeMyTech.io, lidero productos SaaS, IA y automatización.
+- 🧩 Proyectos destacados: VisualEmotion, Viatika, Raffle, Castevo, SuicideDetection.
+- 🌱 Aprendiendo: DevOps avanzado, escalabilidad cloud, microservicios.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,angular,nextjs,flutter,nodejs,firebase,supabase,react,php,java,docker,python,postgres,tailwind,github" />
+</p>
+
+---
+
+### 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=magq2002&show_icons=true&count_private=true&theme=material-palenight" alt="GitHub Stats"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magq2002&theme=material-palenight" alt="GitHub Streak"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magq2002&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" alt="Top Langs"/>
+</p>
+
+---
+
+### 🔗 Proyectos Destacados
+
+- [VisualEmotion](https://visualemotion.bemytech.io/) – IA para emociones en tiempo real.  
+- [Viatika](https://viatika.bemytech.io/) – Gestión de viáticos empresariales.  
+- [Raffle](https://raffle.bemytech.io/) – Rifas digitales seguras.  
+- [Castevo](https://castevo.com/) – Gestión de propiedades e inmuebles.
+
+---
+
+### 🤝 ¿Colaboramos?
+
+🚀 Me interesa trabajar en proyectos tecnológicos con propósito.  
+📬 Contacto: [migalvez2002@gmail.com](mailto:migalvez2002@gmail.com)
+
+---
